@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #fc9;
+    color: #fff;
+    text-align: center;
+    padding: 2em 0;
+}
+
+main.about-us {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150vh;
+}
+
+section {
+    margin-left: 3px;
+    height: 1110px;
+    width: 100%;
+    padding: 4em;
+    background-color:#f2f2f2;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    line-height: 1.5;
+}
+
+footer {
+    background-color:#fc9;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0
+}
